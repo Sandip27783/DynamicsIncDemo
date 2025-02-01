@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sandip\\RnD\\ProgrammingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|c:\\sandip\\rnd\\programmingdemo\\programmingdemo\\primemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|solutionrelative:programmingdemo\\primemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|c:\\sandip\\rnd\\programmingdemo\\programmingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|solutionrelative:programmingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|c:\\sandip\\rnd\\programmingdemo\\programmingdemo\\imode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|solutionrelative:programmingdemo\\imode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|c:\\sandip\\rnd\\programmingdemo\\programmingdemo\\helperfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|solutionrelative:programmingdemo\\helperfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|c:\\sandip\\rnd\\programmingdemo\\programmingdemo\\encryptionmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|solutionrelative:programmingdemo\\encryptionmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|c:\\sandip\\rnd\\programmingdemo\\programmingdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|solutionrelative:programmingdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|c:\\sandip\\rnd\\programmingdemo\\programmingdemo\\programmingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{664E6197-8A75-43DF-BB02-1A252F882038}|ProgrammingDemo\\ProgrammingDemo.csproj|solutionrelative:programmingdemo\\programmingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgrammingDemo.csproj",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\ProgrammingDemo.csproj",
+              "RelativeDocumentMoniker": "ProgrammingDemo\\ProgrammingDemo.csproj",
+              "ToolTip": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\ProgrammingDemo.csproj",
+              "RelativeToolTip": "ProgrammingDemo\\ProgrammingDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T04:17:22.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeMode.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\PrimeMode.cs",
+              "RelativeDocumentMoniker": "ProgrammingDemo\\PrimeMode.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\PrimeMode.cs",
+              "RelativeToolTip": "ProgrammingDemo\\PrimeMode.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:18:05.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMode.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\IMode.cs",
+              "RelativeDocumentMoniker": "ProgrammingDemo\\IMode.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\IMode.cs",
+              "RelativeToolTip": "ProgrammingDemo\\IMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:18:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncryptionMode.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\EncryptionMode.cs",
+              "RelativeDocumentMoniker": "ProgrammingDemo\\EncryptionMode.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\EncryptionMode.cs",
+              "RelativeToolTip": "ProgrammingDemo\\EncryptionMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:18:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\App.config",
+              "RelativeDocumentMoniker": "ProgrammingDemo\\App.config",
+              "ToolTip": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\App.config",
+              "RelativeToolTip": "ProgrammingDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-29T04:17:55.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelperFunctions.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\HelperFunctions.cs",
+              "RelativeDocumentMoniker": "ProgrammingDemo\\HelperFunctions.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\HelperFunctions.cs",
+              "RelativeToolTip": "ProgrammingDemo\\HelperFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:17:38.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ProgrammingDemo\\Program.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\ProgrammingDemo\\ProgrammingDemo\\Program.cs",
+              "RelativeToolTip": "ProgrammingDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:16:56.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
