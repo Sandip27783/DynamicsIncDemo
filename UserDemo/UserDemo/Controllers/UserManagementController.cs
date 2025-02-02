@@ -1,9 +1,7 @@
 ﻿using System.Text;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.IdentityModel.Tokens;
 using UserDemo.Abstraction;
-using UserDemo.Helper;
 using UserDemo.Service;
 
 namespace UserDemo.Controllers

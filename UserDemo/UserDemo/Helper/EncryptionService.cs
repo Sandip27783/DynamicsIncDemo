@@ -7,10 +7,10 @@ namespace UserDemo.Helper
         private readonly IDataProtector _protector;
 
         // Constructor to initialize the IDataProtector using dependency injection
-        public EncryptionService(IDataProtectionProvider provider)
+        public EncryptionService(IDataProtectionProvider provider, IConfiguration configuration)
         {
-            // 'MyPurpose' is a unique string that ensures different protection policies for different purposes
-            _protector = provider.CreateProtector("MyPurpose");
+            var purpose = configuration.GetSection("AppSettings:ProtectorPurpose").Value;
+            _protector = provider.CreateProtector(purpose ?? "MyProtectorPurpose");            
         }
 
         // Method to encrypt plain text data

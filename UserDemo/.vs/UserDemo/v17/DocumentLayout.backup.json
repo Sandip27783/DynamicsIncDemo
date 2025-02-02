@@ -1,34 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Sandip\\RnD\\UserDemo\\",
+  "WorkspaceRootPath": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\userdemo\\userdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\userdemo\\userdemo\\service\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\service\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\userdemo\\userdemo\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\userdemo\\userdemo\\service\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\service\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\service\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\service\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\userdemo\\userdemo\\abstraction\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\abstraction\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\userdemo\\userdemo\\repository\\usermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\repository\\usermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\repository\\usermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\userdemo\\userdemo\\repository\\iusermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\service\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\service\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\repository\\iusermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\repository\\iusermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\repository\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\repository\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\helper\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\helper\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\abstraction\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\abstraction\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\abstraction\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\abstraction\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|c:\\sandip\\rnd\\demo\\dynamicsincdemo\\userdemo\\userdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C58514EA-2886-45AE-9C73-D4ECB4B94A5D}|UserDemo\\UserDemo.csproj|solutionrelative:userdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,90 +58,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserManagementService.cs",
-              "DocumentMoniker": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Service\\IUserManagementService.cs",
-              "RelativeDocumentMoniker": "UserDemo\\Service\\IUserManagementService.cs",
-              "ToolTip": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Service\\IUserManagementService.cs",
-              "RelativeToolTip": "UserDemo\\Service\\IUserManagementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "UserDemo\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "UserDemo\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:31:08.808Z"
+              "WhenOpened": "2025-02-02T04:39:15.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Abstraction\\UserRequest.cs",
+              "RelativeDocumentMoniker": "UserDemo\\Abstraction\\UserRequest.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Abstraction\\UserRequest.cs",
+              "RelativeToolTip": "UserDemo\\Abstraction\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:37:49.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Helper\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "UserDemo\\Helper\\EncryptionService.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Helper\\EncryptionService.cs",
+              "RelativeToolTip": "UserDemo\\Helper\\EncryptionService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:33:05.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IUserManagementRepository.cs",
-              "DocumentMoniker": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Repository\\IUserManagementRepository.cs",
-              "RelativeDocumentMoniker": "UserDemo\\Repository\\IUserManagementRepository.cs",
-              "ToolTip": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Repository\\IUserManagementRepository.cs",
-              "RelativeToolTip": "UserDemo\\Repository\\IUserManagementRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIAywAsAAAAZAAAAAAAAAA==",
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Repository\\DapperContext.cs",
+              "RelativeDocumentMoniker": "UserDemo\\Repository\\DapperContext.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Repository\\DapperContext.cs",
+              "RelativeToolTip": "UserDemo\\Repository\\DapperContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:30:35.106Z"
+              "WhenOpened": "2025-02-02T04:14:49.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "UserDemo\\appsettings.json",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\appsettings.json",
+              "RelativeToolTip": "UserDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T04:11:13.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Abstraction\\Users.cs",
-              "RelativeDocumentMoniker": "UserDemo\\Abstraction\\Users.cs",
-              "ToolTip": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Abstraction\\Users.cs",
-              "RelativeToolTip": "UserDemo\\Abstraction\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAlAAAAAAAAAA==",
+              "Title": "IUserManagementService.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Service\\IUserManagementService.cs",
+              "RelativeDocumentMoniker": "UserDemo\\Service\\IUserManagementService.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Service\\IUserManagementService.cs",
+              "RelativeToolTip": "UserDemo\\Service\\IUserManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:27:54.248Z"
+              "WhenOpened": "2025-01-31T11:31:08.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserManagementRepository.cs",
-              "DocumentMoniker": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Repository\\UserManagementRepository.cs",
-              "RelativeDocumentMoniker": "UserDemo\\Repository\\UserManagementRepository.cs",
-              "ToolTip": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Repository\\UserManagementRepository.cs",
-              "RelativeToolTip": "UserDemo\\Repository\\UserManagementRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCwAAABWAAAAAAAAAA==",
+              "Title": "IUserManagementRepository.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Repository\\IUserManagementRepository.cs",
+              "RelativeDocumentMoniker": "UserDemo\\Repository\\IUserManagementRepository.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Repository\\IUserManagementRepository.cs",
+              "RelativeToolTip": "UserDemo\\Repository\\IUserManagementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:28:23.649Z"
+              "WhenOpened": "2025-01-31T11:30:35.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Abstraction\\Users.cs",
+              "RelativeDocumentMoniker": "UserDemo\\Abstraction\\Users.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Abstraction\\Users.cs",
+              "RelativeToolTip": "UserDemo\\Abstraction\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:27:54.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManagementRepository.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Repository\\UserManagementRepository.cs",
+              "RelativeDocumentMoniker": "UserDemo\\Repository\\UserManagementRepository.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Repository\\UserManagementRepository.cs",
+              "RelativeToolTip": "UserDemo\\Repository\\UserManagementRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAApwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:28:23.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserManagementService.cs",
-              "DocumentMoniker": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Service\\UserManagementService.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Service\\UserManagementService.cs",
               "RelativeDocumentMoniker": "UserDemo\\Service\\UserManagementService.cs",
-              "ToolTip": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Service\\UserManagementService.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Service\\UserManagementService.cs",
               "RelativeToolTip": "UserDemo\\Service\\UserManagementService.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAwwFgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAApwFYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T13:28:23.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserManagementController.cs",
-              "DocumentMoniker": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Controllers\\UserManagementController.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Controllers\\UserManagementController.cs",
               "RelativeDocumentMoniker": "UserDemo\\Controllers\\UserManagementController.cs",
-              "ToolTip": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Controllers\\UserManagementController.cs",
               "RelativeToolTip": "UserDemo\\Controllers\\UserManagementController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAkwFMAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwEEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:28:23.682Z"
+              "WhenOpened": "2025-01-30T13:28:23.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Program.cs",
+              "DocumentMoniker": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Program.cs",
               "RelativeDocumentMoniker": "UserDemo\\Program.cs",
-              "ToolTip": "C:\\Sandip\\RnD\\UserDemo\\UserDemo\\Program.cs",
+              "ToolTip": "C:\\Sandip\\RnD\\demo\\DynamicsIncDemo\\UserDemo\\UserDemo\\Program.cs",
               "RelativeToolTip": "UserDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowFsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T06:16:37.841Z",
               "EditorCaption": ""

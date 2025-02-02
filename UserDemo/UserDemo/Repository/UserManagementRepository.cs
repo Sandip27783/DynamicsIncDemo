@@ -1,7 +1,6 @@
 ﻿using Dapper;
 using UserDemo.Abstraction;
 using UserDemo.Helper;
-using UserDemo.Service;
 
 namespace UserDemo.Repository
 {
